@@ -1,0 +1,3 @@
+{"level":"info","message":"::ffff:10.0.5.213 - - [11/Mar/2026:03:48:24 +0000] \"GET / HTTP/1.1\" 404 70 \"-\" \"Norton Antivirus\"","service":"chat-engine","timestamp":"2026-03-11 09:18:24.543"}
+{"level":"info","message":"::ffff:10.0.5.213 - - [11/Mar/2026:03:48:39 +0000] \"GET /loginMsg.js HTTP/1.1\" 404 81 \"-\" \"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko\"","service":"chat-engine","timestamp":"2026-03-11 09:18:39.525"}
+{"level":"info","message":"::ffff:10.0.5.213 - - [11/Mar/2026:03:48:39 +0000] \"GET /cgi/get.cgi?cmd=home_login HTTP/1.1\" 404 81 \"-\" \"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko\"","service":"chat-engine","timestamp":"2026-03-11 09:18:39.532"}
